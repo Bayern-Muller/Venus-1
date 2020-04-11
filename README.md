@@ -1,4 +1,4 @@
-![Minecraft logo](https://github.com/729007894/Venus/raw/master/Minecraft_logo.png)
+![Minecraft logo](https://raw.githubusercontent.com/GloamingCN/Venus/master/Minecraft_logo.png)
 # 嗨！这里是启明星辰（Venus Star）多元服务器构建页面。
 
 
